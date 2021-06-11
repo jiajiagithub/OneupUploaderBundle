@@ -1,5 +1,5 @@
 {
-    "name": "oneup/uploader-bundle",
+    "name": "jiajiagithub/uploader-bundle",
     "type": "symfony-bundle",
     "description": "This Symfony bundle provides a server implementation for handling single and multiple file uploads using either FineUploader, jQuery File Uploader, YUI3 Uploader, Uploadify, FancyUpload, MooUpload, Plupload or Dropzone. Features include chunked uploads, orphanages, Gaufrette and Flysystem support.",
     "keywords": [
@@ -15,7 +15,7 @@
         "Plupload",
         "Dropzone"
     ],
-    "homepage": "https://1up.io",
+    "homepage": "https://github.com/jiajiagithub/OneupUploaderBundle",
     "license": "MIT",
     "authors": [
         {
